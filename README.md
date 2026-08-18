@@ -124,7 +124,7 @@ This project is related to the following research areas:
 
 This repository is associated with the following publication:
 
-**Zahra Zahedi, Takhtem Ghaffarian**
+**Zahra Zahedi, Toktam Ghaffarian**
 
 **"Towards Intelligent Assessment: Using Reinforcement Learning Algorithms to Improve Accuracy and Efficiency in Online Educational Systems"**
 
@@ -201,6 +201,6 @@ Possible extensions of this work include:
 **Zahra Zahedi**
 Computer Group, Khayyam University, Mashhad, Iran
 
-**Takhtem Ghaffarian**
+**Toktam Ghaffarian**
 Computer Group, Khayyam University, Mashhad, Iran
 
